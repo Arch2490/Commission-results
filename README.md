@@ -1,5 +1,5 @@
-# Commission-results
-results i got from running COMMISSION 1.1 on Google Colab for probably a hundred hours at this point
+# FOR INSTRUCTIONS ON HOW TO FIND THESE SEEDS, WATCH [THIS VIDEO](https://www.youtube.com/watch?v=8XQvQk4dmM0)
+Results i got from running COMMISSION 1.1 on Google Colab for probably a hundred hours at this point
 # ! SEARCHED FOR 7 MILLION BLOCKS AND ABOVE OF MUSHROOM FIELDS BIOMES IN DEFAULT WORLD TYPE!
 
 (All seeds below are taken at 0.065 zoom on ChunkBase and only works for 1.18+
