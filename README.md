@@ -4,7 +4,7 @@ Results i got from running COMMISSION 1.1 on Google Colab for probably a 500+ ho
 
 (All seeds below are taken at 0.065 zoom on ChunkBase and only works for 1.18+
 
-Largest Island in list: -8242443525300883271 2373737 -2792525 9505200 (Currently 5th (formerly 2nd) largest mushroom island ever found)
+Largest Island in list: -8242443525300883271 2373737 -2792525 9505200 (Currently 8th (formerly 2nd) largest mushroom island ever found)
 
 <img width="781" height="439" alt="image" src="https://github.com/user-attachments/assets/0a779f67-313c-4b44-9915-33042ef0ac9a" />
 
